@@ -47,6 +47,9 @@
     "lEEjl26Fxic", // Best of Still Corners
     "jSQKxyUumfs", // Playlist Still Corners
     "4YjlvuYc9FI", // Two Feet - Digital Mirage
+    "4Odt6HbgeNo", // Legendary Melodies Best Instrumental Music #1
+    "srBUB4XEjoo", // Sheldon King's Ambient Acoustic Guitar
+    "IK7AYIXt4ro", // Forester - Moonlight (Live Performance)
   ];
 
   const random_id = function() {
