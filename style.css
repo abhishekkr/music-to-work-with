@@ -166,3 +166,7 @@ label {
 h2 {
   color: #2800FF;
 }
+
+svg {
+  transform: scale(0.5);
+}
