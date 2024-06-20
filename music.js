@@ -50,6 +50,17 @@
     "4Odt6HbgeNo", // Legendary Melodies Best Instrumental Music #1
     "srBUB4XEjoo", // Sheldon King's Ambient Acoustic Guitar
     "IK7AYIXt4ro", // Forester - Moonlight (Live Performance)
+    "ApHL4mVUln0", // NY Jazz Saxophone
+    "g_En83zHGTQ", // Classical Music for Gentlemen
+    "uTSl_UpJy4k", // dark academia playlist harmony with rain
+    "iMqe_O1bGTQ", // Classical Music for Commodores
+    "lT-SegK_ybg", // Old Money Playlist
+    "tlHVd6NTLE0", // 1hr dark techno another distraction cybermode
+    "14AI3obH8XA", // some old lofi tape 1hr
+    "K-rrsOba3gE", // You have no enemies
+    "jidqrehoZgI", // Gia Fu, Salsa Records from Curacao
+    "vDKTkYz_cy4", // playlist jpop tokyo pub on rainy night
+    "I7I7MY_8OBQ", // Kurumi's Phonk night drive
   ];
 
   const random_id = function() {
