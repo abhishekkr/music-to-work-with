@@ -23,7 +23,6 @@
     "4LPwMLLXoMc",
     "lzF1gskuGFc",
     "pa1-t45nK1o",
-    "lalE7SvEc78",
     "jL-u3kAywRk",
     "TuPZq8zaCo8",
     "F2lk3I2w2Uk",
@@ -61,6 +60,10 @@
     "jidqrehoZgI", // Gia Fu, Salsa Records from Curacao
     "vDKTkYz_cy4", // playlist jpop tokyo pub on rainy night
     "I7I7MY_8OBQ", // Kurumi's Phonk night drive
+    "xHZ39eRNvBg", // [hybs playlist] sit here and you listen to hybs songs
+    "pRbxlpvXw2s", // Playlist of songs that'll make you dance ~ Feeling good playlist
+    "Snhb-97lMcQ", // Caravan Palace - Gangbusters Melody Club (Full Album)
+    "Q-0KUYcPFd4", // 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 It's a groovy synth-pop at Hakata Station on a rainy day
   ];
 
   const random_id = function() {
