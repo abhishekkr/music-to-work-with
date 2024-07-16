@@ -3,36 +3,13 @@
   var ytiframe = document.getElementById('ytplayer');
   const yt_url_begin = "https://www.youtube.com/embed/";
   // const yt_url_end = "?autoplay=1&origin=https://lude.page&mute=0&enablejsapi=1";
-  const yt_url_end = "?autoplay=1&muted=0";
+  const yt_url_end = "?autoplay=1&muted=0&t=0";
   const song_ids_list = [
     "r55w6BEjIyI", // Smooth Jazz House Mix
     "jvXUJYmpIy8", // French Deep House Mix; Emma Peters, Edmofo, Crisologo, Vianney
     "I7tPFF2TmeI", // Omer Balik Mix Best of 2021
     "L_kSR6tfuP8", // badass song ONLAP that
     "sCNlt5nvSI8", // FKJ live at Salar de Uyuni, Bolivia for Cercle
-    "Gb4ffW3Nq5Q",
-    "Q1g8-9u9xDc",
-    "GrG2-oX5z24",
-    "XOXIZ5jbw0k",
-    "WwOcAdyZfgY",
-    "fic_SPhoFok",
-    "fKkAboLtpXI",
-    "XIfTLLK1rnc",
-    "qClVMXMxfgM",
-    "wB8AArJG6BE",
-    "4LPwMLLXoMc",
-    "lzF1gskuGFc",
-    "pa1-t45nK1o",
-    "jL-u3kAywRk",
-    "TuPZq8zaCo8",
-    "F2lk3I2w2Uk",
-    "M9z3ucb6f7c",
-    "D9ZXhB0C9QE",
-    "eEElQpZ_VKQ",
-    "78kT9a6Stw8",
-    "889gjqDj3Vs",
-    "F9Ex1ESEWN4",
-    "AlusJU53nKg",
     "4nvewes8Inc", // Groovy Disco and R&B at NY Basement Party, Tinzo, Book Club Radio
     "vBCNlxFTkJk", // Berlin Deep House, Chris Luno
     "D6-7gZFPvV0", // Depeche Mode - Pink Floyd, Moby, Rufus Du Sol, Solomun, AMNESIA
@@ -63,7 +40,31 @@
     "xHZ39eRNvBg", // [hybs playlist] sit here and you listen to hybs songs
     "pRbxlpvXw2s", // Playlist of songs that'll make you dance ~ Feeling good playlist
     "Snhb-97lMcQ", // Caravan Palace - Gangbusters Melody Club (Full Album)
-    "Q-0KUYcPFd4", // 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 It's a groovy synth-pop at Hakata Station on a rainy day
+    "Q-0KUYcPFd4", // It's a groovy synth-pop at Hakata Station on a rainy day
+    "cnlw7tg-o2U", // groovy playlist that's good to secretly dance to while working
+    "Gb4ffW3Nq5Q",
+    "Q1g8-9u9xDc",
+    "GrG2-oX5z24",
+    "XOXIZ5jbw0k",
+    "WwOcAdyZfgY",
+    "fic_SPhoFok",
+    "fKkAboLtpXI",
+    "XIfTLLK1rnc",
+    "qClVMXMxfgM",
+    "wB8AArJG6BE",
+    "4LPwMLLXoMc",
+    "lzF1gskuGFc",
+    "pa1-t45nK1o",
+    "jL-u3kAywRk",
+    "TuPZq8zaCo8",
+    "F2lk3I2w2Uk",
+    "M9z3ucb6f7c",
+    "D9ZXhB0C9QE",
+    "eEElQpZ_VKQ",
+    "78kT9a6Stw8",
+    "889gjqDj3Vs",
+    "F9Ex1ESEWN4",
+    "AlusJU53nKg",
   ];
 
   const random_id = function() {
