@@ -5,6 +5,7 @@
   // const yt_url_end = "?autoplay=1&origin=https://lude.page&mute=0&enablejsapi=1";
   const yt_url_end = "?autoplay=1&muted=0&t=0";
   const song_ids_list = [
+    "L5xjLvc5LRE", // Back Hits of 1950s - 2000s lofi remix / Joe Ashley
     "r55w6BEjIyI", // Smooth Jazz House Mix
     "jvXUJYmpIy8", // French Deep House Mix; Emma Peters, Edmofo, Crisologo, Vianney
     "I7tPFF2TmeI", // Omer Balik Mix Best of 2021
@@ -42,6 +43,8 @@
     "Snhb-97lMcQ", // Caravan Palace - Gangbusters Melody Club (Full Album)
     "Q-0KUYcPFd4", // It's a groovy synth-pop at Hakata Station on a rainy day
     "cnlw7tg-o2U", // groovy playlist that's good to secretly dance to while working
+    "aaWQwEQ1mdQ", // PHONK MUSIC 2024 , BEST GYM MUSIC
+    "82ujdQBjpDQ", // Quiet Solitude Lofi hip hop mix / Smoke & Chill
     "Gb4ffW3Nq5Q",
     "Q1g8-9u9xDc",
     "GrG2-oX5z24",
@@ -67,13 +70,28 @@
     "AlusJU53nKg",
   ];
 
+  const yt_id_from_url = function() {
+    var hash_ytid = document.location.hash.replace(/^#/, '');
+    if (hash_ytid != '') {
+      document.location.hash = '';
+      if (song_ids_list.includes(hash_ytid)) {
+        return hash_ytid;
+      }
+    }
+    return '';
+  }
+
   const random_id = function() {
+      var song_id = yt_id_from_url();
+      if (song_id != '') {
+        return song_id;
+      }
       const mn = 0;
       const mx = song_ids_list.length - 1;
       var index = Math.random() * mx + mn;
       index = index < 0.5 ? 0 : Math.ceil(index);
       index = index > mx ? mx : index;
-      var song_id = song_ids_list[index];
+      song_id = song_ids_list[index];
       //console.log("Previous IDs:", prev_ids_list); //DEBUG
       //console.log("Index:", song_id); //DEBUG
       //console.log("New Previous IDs:", prev_ids_list); //DEBUG
@@ -93,7 +111,8 @@
     var yturl = yt_url_begin + ytid + yt_url_end;
     //console.log("YT URL:", yturl); //DEBUG
     ytiframe.src = yturl;
-    document.getElementById('yturl').href = "https://youtu.be/" + ytid;
+    var self_lnk_end = document.location.href.indexOf('#') > 0 ? ytid : '#' + ytid;
+    document.getElementById('yturl').href = document.location.href + self_lnk_end;
   };
 
   reset_song();
