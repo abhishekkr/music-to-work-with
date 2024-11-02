@@ -45,6 +45,10 @@
     "cnlw7tg-o2U", // groovy playlist that's good to secretly dance to while working
     "aaWQwEQ1mdQ", // PHONK MUSIC 2024 , BEST GYM MUSIC
     "82ujdQBjpDQ", // Quiet Solitude Lofi hip hop mix / Smoke & Chill
+    "f1-jV9Qwwf0", // cunjur - running distance | dreamcore playlist
+    "lPXi-5XhDPE", // Nephilist - running away | dreamcore playlist
+    "cfkoy-OLmCI", // Technic - comfort playlist
+    "yK2SIzlRWmM", // Jimmy - comfort playlist
     "Gb4ffW3Nq5Q",
     "Q1g8-9u9xDc",
     "GrG2-oX5z24",
