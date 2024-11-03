@@ -49,6 +49,15 @@
     "lPXi-5XhDPE", // Nephilist - running away | dreamcore playlist
     "cfkoy-OLmCI", // Technic - comfort playlist
     "yK2SIzlRWmM", // Jimmy - comfort playlist
+    "HkAi3wf3A6g", // Tsuri - love playlist
+    "ak5X7vTpqDQ", // Quiet Hours - Coffee & Cigarettes
+    "AKbelTywKhs", // cigarettes after sex playlist
+    "XhRtmk7vm3k", // cheonsa - late night vibe
+    "ot8SV-1B5n8", // @fall-in-love-hehe - pov, all songs about you
+    "NTgouy-3vqA", // @FearlessMix - anti hero
+    "QcFXdi6mblg", // @Veelittlebee - tragic badass
+    "AHdLwEUkhUA", // @emileedawnfrench - anti hero
+    "AIs221cgL5c", // @yejestersprivilege - cowboy
     "Gb4ffW3Nq5Q",
     "Q1g8-9u9xDc",
     "GrG2-oX5z24",
