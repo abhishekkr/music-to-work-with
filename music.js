@@ -5,6 +5,9 @@
   // const yt_url_end = "?autoplay=1&origin=https://lude.page&mute=0&enablejsapi=1";
   const yt_url_end = "?autoplay=1&muted=0&t=0";
   const song_ids_list = [
+    "qKlUpmZwsyw", // Feeling Good Mix - Emma Péters, Carla Morrison
+    "nec3aZM8aUY", // Deep House Mix 2024 Chillout Mix by Diamond #3
+    "kLjJX-7BG-s", // Classic 2000s RnB Playlist ~Best R&B/Soul 2000-2009
     "L5xjLvc5LRE", // Back Hits of 1950s - 2000s lofi remix / Joe Ashley
     "r55w6BEjIyI", // Smooth Jazz House Mix
     "jvXUJYmpIy8", // French Deep House Mix; Emma Peters, Edmofo, Crisologo, Vianney
@@ -58,6 +61,7 @@
     "QcFXdi6mblg", // @Veelittlebee - tragic badass
     "AHdLwEUkhUA", // @emileedawnfrench - anti hero
     "AIs221cgL5c", // @yejestersprivilege - cowboy
+    "jV80Kw3Lvnk", // @redrum-o9q : you realize an anti hero is also here
     "Gb4ffW3Nq5Q",
     "Q1g8-9u9xDc",
     "GrG2-oX5z24",
