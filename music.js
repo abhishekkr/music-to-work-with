@@ -5,6 +5,7 @@
   // const yt_url_end = "?autoplay=1&origin=https://lude.page&mute=0&enablejsapi=1";
   const yt_url_end = "?autoplay=1&muted=0&t=0";
   const song_ids_list = [
+    "pC55KBJWiHY", // VINTAGE - Deep House French Music 50s & 80s Hits - By Genvis
     "qKlUpmZwsyw", // Feeling Good Mix - Emma Péters, Carla Morrison
     "nec3aZM8aUY", // Deep House Mix 2024 Chillout Mix by Diamond #3
     "kLjJX-7BG-s", // Classic 2000s RnB Playlist ~Best R&B/Soul 2000-2009
