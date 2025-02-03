@@ -21,7 +21,6 @@
     "G5Jmy6-gaSc", // Giolì & Assia - #DiesisLive @Punta Bianca, Agrigento
     "-0a5-J2somM", // Crossroads To Chicago Blues, McCall Brothers Band
     "mvBqYbs_Xmc", // Best of Jim Croce Vol#1
-    "ARddyaliZ_s", // Trap Flow Best Remixes 2020 #7
     "9hxGMPYboLo", // Fisher Mix 2023 Tech House
     "NdvpzFWrjw0", // Lucifer Morningstar Playlist
     "ES5lFNvbFBs", // Jamiroquai DJ Mix by JaBig, Acid Jazz
@@ -32,7 +31,6 @@
     "srBUB4XEjoo", // Sheldon King's Ambient Acoustic Guitar
     "IK7AYIXt4ro", // Forester - Moonlight (Live Performance)
     "ApHL4mVUln0", // NY Jazz Saxophone
-    "g_En83zHGTQ", // Classical Music for Gentlemen
     "uTSl_UpJy4k", // dark academia playlist harmony with rain
     "iMqe_O1bGTQ", // Classical Music for Commodores
     "lT-SegK_ybg", // Old Money Playlist
